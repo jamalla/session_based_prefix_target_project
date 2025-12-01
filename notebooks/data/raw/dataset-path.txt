@@ -1,1 +1,2 @@
 https://s3-eu-west-1.amazonaws.com/yc-rdata/yoochoose-data.7z
+https://www.kaggle.com/datasets/nhondangcode/e-learning-recommender-system-dataset
