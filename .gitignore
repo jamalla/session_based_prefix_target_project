@@ -8,6 +8,7 @@ __pycache__/
 # Distribution / packaging
 .Python
 env/
+venv/
 build/
 develop-eggs/
 dist/
@@ -78,6 +79,7 @@ target/
 # exclude data from source control by default
 /data/
 notebooks/data/yoochoose-clicks.dat
+notebooks/data/processed/
 
 # Mac OS-specific storage files
 .DS_Store
